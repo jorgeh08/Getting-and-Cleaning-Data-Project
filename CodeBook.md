@@ -19,6 +19,7 @@ Variables:
 Measurements and their descriptions:
 
   tBodyAccMeanX	-	Time Body Accelerometer Mean X
+  
   tBodyAccMeanY	-	Time Body Accelerometer Mean Y
   tBodyAccMeanZ	-	Time Body Accelerometer Mean Z
   tBodyAccStdX	-	Time Body Accelerometer StdX 
